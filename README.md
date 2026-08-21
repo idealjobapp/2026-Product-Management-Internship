@@ -1,4 +1,4 @@
-# <img src="https://issuepay.app/images/icon_issuepay.png" width="28" height="28" align="middle"> 2026 Product Management Internships
+# <img src="https://issuepay.app/images/icon_issuepay.png" width="32" height="32" align="absmiddle"> 2026 Product Management Internships
 
 Auto-updated daily from live job postings. 38 open roles as of 2026-08-21 UTC.
 
