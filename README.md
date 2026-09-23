@@ -1,12 +1,12 @@
 # <img src="https://idealjob.app/images/icon_idealjob.png" width="32" height="32" align="absmiddle"> 2026 Product Management Internship Roles
 
-Auto-updated daily from live job postings. 18 open roles as of 2026-09-22 UTC.
+Auto-updated daily from live job postings. 18 open roles as of 2026-09-23 UTC.
 
 Want these matched to your resume automatically? [Try IdealJob's Career Agent free](https://idealjob.app/jobs/entry-level?ref=github_2026-Product-Management-Internship).
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| <img src="https://img.logo.dev/coinbase.com?token=pk_efYn5k8yT5StJVLg1Tp6WQ" width="20" height="20" align="absmiddle"> Coinbase | Product Manager (HR Technology) Intern | Hybrid - New York, NY | 2026-09-08 | [Apply](https://idealjob.app/out/1a2ddac4-9584-4aa2-8016-9d57f5e2df8e?ref=github_2026-Product-Management-Internship) |
+| <img src="https://img.logo.dev/coinbase.com?token=pk_efYn5k8yT5StJVLg1Tp6WQ" width="20" height="20" align="absmiddle"> Coinbase | Product Manager (HR Technology) Intern | Hybrid - New York, NY | 2026-09-22 | [Apply](https://idealjob.app/out/1a2ddac4-9584-4aa2-8016-9d57f5e2df8e?ref=github_2026-Product-Management-Internship) |
 | <img src="https://img.logo.dev/coinbase.com?token=pk_efYn5k8yT5StJVLg1Tp6WQ" width="20" height="20" align="absmiddle"> Coinbase | Associate Product Manager Intern | Hybrid - San Francisco, CA | 2026-09-08 | [Apply](https://idealjob.app/out/da5993f3-7469-42d7-bb07-86244b732092?ref=github_2026-Product-Management-Internship) |
 | <img src="https://cdn-images.himalayas.app/lxnnc23ezzkqdb4cxbltli3vru2t" width="20" height="20" align="absmiddle"> TikTok | Product Manager Intern (AI & Ecosystem Governance - TikTok LIVE) - 2027 Start | Singapore | 2026-09-03 | [Apply](https://idealjob.app/out/98e82df4-3f7d-4222-904d-7238d7f9e354?ref=github_2026-Product-Management-Internship) |
 | <img src="https://cdn-images.himalayas.app/lxnnc23ezzkqdb4cxbltli3vru2t" width="20" height="20" align="absmiddle"> TikTok | Governance Strategy Product Manager Program Intern (TikTok LIVE - Platform Trust & Ecosystem) - 2027 Start | Singapore | 2026-09-03 | [Apply](https://idealjob.app/out/2912a147-0380-4a52-af1a-f3ccd164afc8?ref=github_2026-Product-Management-Internship) |
