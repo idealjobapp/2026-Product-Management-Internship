@@ -1,6 +1,6 @@
 # <img src="https://idealjob.app/images/icon_idealjob.png" width="32" height="32" align="absmiddle"> 2026 Product Management Internship Roles
 
-Auto-updated daily from live job postings. 19 open roles as of 2026-10-13 UTC.
+Auto-updated daily from live job postings. 18 open roles as of 2026-10-14 UTC.
 
 Want these matched to your resume automatically? [Try IdealJob's Career Agent free](https://idealjob.app/jobs/entry-level?ref=github_2026-Product-Management-Internship).
 
@@ -24,4 +24,3 @@ Want these matched to your resume automatically? [Try IdealJob's Career Agent fr
 | <img src="https://cdn-images.himalayas.app/rvubq29f0yjjt7n46a5q6zyeu6tb" width="20" height="20" align="absmiddle"> Oracle | OH Product Manager Intern - OVIP | Kansas City, MO, United States | 2026-05-19 | [Apply](https://idealjob.app/out/25b13157-ec37-447b-82ed-406a38567824?ref=github_2026-Product-Management-Internship) |
 | <img src="https://cdn-images.himalayas.app/rvubq29f0yjjt7n46a5q6zyeu6tb" width="20" height="20" align="absmiddle"> Oracle | OH Product Manager Intern - OVIP | Kansas City, MO, United States | 2026-05-19 | [Apply](https://idealjob.app/out/e09fc809-8ec2-497a-9037-60025883bf87?ref=github_2026-Product-Management-Internship) |
 | <img src="https://cdn-images.himalayas.app/2z3gkkofrizlvk45j9o01mop2yu5" width="20" height="20" align="absmiddle"> Stripe | Product Manager: New Grad Accelerator | San Francisco, New York City, Seattle | 2026-03-20 | [Apply](https://idealjob.app/out/02a19e4d-0587-4949-b5e3-9f3eb91c0849?ref=github_2026-Product-Management-Internship) |
-| <img src="https://img.logo.dev/tencent.com?token=pk_efYn5k8yT5StJVLg1Tp6WQ" width="20" height="20" align="absmiddle"> Tencent | Product Manager Intern, Game Performance Optimization | Netherlands-Amsterdam | — | [Apply](https://idealjob.app/out/f95e062b-b63d-4699-942c-074bd5772508?ref=github_2026-Product-Management-Internship) |
